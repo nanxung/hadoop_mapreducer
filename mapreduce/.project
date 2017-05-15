@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>mapreduce</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>lib/hadoop-2.5.2-src</name>
+			<type>2</type>
+			<location>F:/ubuntu/video/视频/大数据 2/2016-01-17-hadoop1/部分资料/hadoop-2.5.2-src/hadoop-2.5.2-src</location>
+		</link>
+	</linkedResources>
+</projectDescription>

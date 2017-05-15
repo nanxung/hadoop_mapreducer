@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Writable"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.WritableComparable"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Mapper"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapred.lib.HashPartitioner"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.WritableComparator"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Text"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.NullWritable"/>
+<fullyQualifiedTypeName name="com.cb.mr.weather.RunJob.WeatherMapper"/>
+<fullyQualifiedTypeName name="com.cb.mr.weather.RunJob.WeatherReduce"/>
+<fullyQualifiedTypeName name="com.cb.mr.weather.myKey"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.DoubleWritable"/>
+<fullyQualifiedTypeName name="com.cb.mr.weather.myGroup"/>
+<fullyQualifiedTypeName name="com.cb.mr.weather.mySort"/>
+<fullyQualifiedTypeName name="com.cb.mr.weather.myPartitioner"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.StringUtils"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.util.StringUtils"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.Reducer"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.Text"/>
+<fullyQualifiedTypeName name="friend.Fof"/>
+<fullyQualifiedTypeName name="friend.RunJob.FofReduce"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.mapreduce.lib.input.KeyValueTextInputFormat"/>
+<fullyQualifiedTypeName name="friend.RunJob.FofMapper"/>
+<fullyQualifiedTypeName name="org.apache.hadoop.io.IntWritable"/>
+</qualifiedTypeNameHistroy>
